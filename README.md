@@ -1,1 +1,1 @@
-Performed Pivot table calculation on different datasets
+Performed Pivot table calculation and graphical representation on different datasets
